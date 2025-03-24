@@ -11,7 +11,7 @@ A basic Python class representing a mobile phone, allowing it to turn on, turn o
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/mobile-phone-simulator.git
+   git clone https://github.com/<your-username>/mobile-phone-simulator.git
 2. Navigate to the project directory:
     ```sh
     cd mobile-phone-simulator
