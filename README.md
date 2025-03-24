@@ -1,4 +1,4 @@
-# Mobile Phone Simulator
+# Mobile Phone Class
 
 A basic Python class representing a mobile phone, allowing it to turn on, turn off, and make calls.
 
@@ -11,7 +11,7 @@ A basic Python class representing a mobile phone, allowing it to turn on, turn o
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/<your-username>/mobile-phone-simulator.git
+   git clone https://github.com/ysgorin/mobile_phone_class.git
 2. Navigate to the project directory:
     ```sh
     cd mobile-phone-simulator
